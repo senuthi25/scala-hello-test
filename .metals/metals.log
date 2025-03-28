@@ -107,3 +107,5 @@ WARNING: Java indexer failed with and exception. (full report at: C:\Users\HP\Ap
 2025.03.26 23:16:38 INFO  time: Imported build in 0.57s
 2025.03.26 23:16:41 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
 2025.03.26 23:17:04 INFO  time: indexed workspace in 25s
+Mar 27, 2025 11:15:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
